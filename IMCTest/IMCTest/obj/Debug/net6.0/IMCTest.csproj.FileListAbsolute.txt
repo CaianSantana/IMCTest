@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\C#_Senai\IMCTest\IMCTest\IMCTest\bin\Debug\net6.0\IMCTest.deps.json
+C:\Users\User\Desktop\C#_Senai\IMCTest\IMCTest\IMCTest\bin\Debug\net6.0\IMCTest.dll
+C:\Users\User\Desktop\C#_Senai\IMCTest\IMCTest\IMCTest\bin\Debug\net6.0\IMCTest.pdb
+C:\Users\User\Desktop\C#_Senai\IMCTest\IMCTest\IMCTest\obj\Debug\net6.0\IMCTest.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_Senai\IMCTest\IMCTest\IMCTest\obj\Debug\net6.0\IMCTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#_Senai\IMCTest\IMCTest\IMCTest\obj\Debug\net6.0\IMCTest.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#_Senai\IMCTest\IMCTest\IMCTest\obj\Debug\net6.0\IMCTest.AssemblyInfo.cs
+C:\Users\User\Desktop\C#_Senai\IMCTest\IMCTest\IMCTest\obj\Debug\net6.0\IMCTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_Senai\IMCTest\IMCTest\IMCTest\obj\Debug\net6.0\IMCTest.dll
+C:\Users\User\Desktop\C#_Senai\IMCTest\IMCTest\IMCTest\obj\Debug\net6.0\refint\IMCTest.dll
+C:\Users\User\Desktop\C#_Senai\IMCTest\IMCTest\IMCTest\obj\Debug\net6.0\IMCTest.pdb
+C:\Users\User\Desktop\C#_Senai\IMCTest\IMCTest\IMCTest\obj\Debug\net6.0\ref\IMCTest.dll
